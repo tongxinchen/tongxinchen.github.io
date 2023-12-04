@@ -35,14 +35,27 @@ header {
   font-size: 24px; // Change this to your preferred icon size
 }
 
-<div class="social-icons">
-                         ...
-</div>
 
-<!-- Navigation Menu -->
-<ul class="nav-menu">
-<li><a href="/about">About</a></li>
-<li><a href="/project">Project</a></li>
-<li><a href="/publication">Publication</a></li>
-<li><a href="/resources">Resources</a></li>
-</ul>
+
+
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.nav-menu li {
+  margin: 10px;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.3s ease;
+}
+
+.nav-menu a:hover {
+  color: #0000ff;
+}
