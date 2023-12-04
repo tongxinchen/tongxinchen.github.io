@@ -1,5 +1,3 @@
-
-
 ---
 layout: default
 ---
@@ -8,32 +6,23 @@ layout: default
 
 This is the content for my homepage.
 
-<button id="myButton">Click me</button>
+<div class="box">Box 1</div>
+<div class="box">Box 2</div>
+<div class="box">Box 3</div>
 
-<p id="myText">Original Text</p>
+<style>
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #f0f0f0;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    transition: background-color 0.5s;
+}
 
-<script>
-document.getElementById("myButton").addEventListener("click", function() {
-    document.getElementById("myText").innerHTML = "Text after button click";
-});
-</script>
-
-
-
-
-
-
-
----------------
-
-
-
-
-
-
-
-
-
-
-
------------------
+.box:hover {
+    background-color: #ddd;
+}
+</style>
