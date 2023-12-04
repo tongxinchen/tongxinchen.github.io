@@ -21,16 +21,14 @@ header {
 }
 
 
-
-.social-icons {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
+.social-icons a {
+  color: #0000ff; // Change this to your preferred color
+  text-decoration: none;
+  transition: color 0.3s ease; // This will make the color change smoothly
 }
 
-.social-icons a {
-  color: #000; // Change this to your preferred color
-  text-decoration: none;
+.social-icons a:hover {
+  color: #A550A7; // This will change the color when the mouse hovers over the icon
 }
 
 .social-icons i {
