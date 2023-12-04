@@ -4,21 +4,21 @@ layout: default
 
 
 
--------
+
 <div class="box">
-    <p>Research 1 1</p> <!-- Text -->
-    <img src="/assets/img/h_1.jpg" alt="Image 1"> <!-- Image -->
+    <p>Research 1</p> <!-- Text -->
+    <img src=" " alt="Image 1"> <!-- Image -->
 </div>
 
--------
+
 <div class="box">
-    <p>Research 2 2</p> <!-- Text -->
+    <p>Research 2</p> <!-- Text -->
     <img src=" " alt="Image 2"> <!-- Image -->
 </div>
 
--------
+
 <div class="box">
-    <p>Research 3 3</p> <!-- Text -->
+    <p>Research 3</p> <!-- Text -->
     <img src=" " alt="Image 3"> <!-- Image -->
 </div>
 
