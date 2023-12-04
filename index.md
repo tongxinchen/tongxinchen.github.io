@@ -23,10 +23,6 @@ layout: default
 
 <style>
 .container {
-    /* Removed display: flex and justify-content: space-between */
-}
-
-.box {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -40,13 +36,13 @@ layout: default
     border-radius: 10px;
 }
 
-.box img {
+.container img {
     width: 100%;
     height: 100%;
     object-fit: contain;
 }
 
-.box:hover {
+.container:hover {
     background-color: #ddd;
 }
 </style>
