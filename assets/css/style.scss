@@ -20,3 +20,19 @@ header {
   object-fit: cover; // This will make sure the image covers the whole area of the circle
 }
 
+
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.social-icons a {
+  color: #000; // Change this to your preferred color
+  text-decoration: none;
+}
+
+.social-icons i {
+  font-size: 24px; // Change this to your preferred icon size
+}
