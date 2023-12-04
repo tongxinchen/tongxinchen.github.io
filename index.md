@@ -7,7 +7,7 @@ layout: default
 
 <div class="box">
     <p>Research 1 1</p> <!-- Text -->
-    <img src="/path/to/image1.jpg" alt="Image 1"> <!-- Image -->
+    <img src="/assets/img/h_1.jpg" alt="Image 1"> <!-- Image -->
 </div>
 
 <div class="box">
