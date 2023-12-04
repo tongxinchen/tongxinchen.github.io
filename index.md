@@ -24,13 +24,14 @@ layout: default
 
 <style>
 .box {
-    width: 200px; /* Changed width */
-    height: 150px; /* Changed height */
-    margin: 10px;
+    width: 400px;
+    height: 300px;
+    margin: 30px;
     background-color: #f0f0f0;
     text-align: center;
-    line-height: 150px; /* Changed line-height */
+    line-height: 150px;
     transition: background-color 0.5s;
+    border-radius: 10px; /* Added this line */
 }
 
 .box:hover {
