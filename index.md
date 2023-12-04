@@ -12,12 +12,12 @@ layout: default
 
 <div class="box">
     <p>Research 2 2</p> <!-- Text -->
-    <img src="/path/to/image2.jpg" alt="Image 2"> <!-- Image -->
+    <img src=" " alt="Image 2"> <!-- Image -->
 </div>
 
 <div class="box">
     <p>Research 3 3</p> <!-- Text -->
-    <img src="/path/to/image3.jpg" alt="Image 3"> <!-- Image -->
+    <img src=" " alt="Image 3"> <!-- Image -->
 </div>
 
 
@@ -42,6 +42,12 @@ layout: default
     line-height: 150px;
     transition: background-color 0.5s;
     border-radius: 10px; /* Added this line */
+}
+
+.box img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 
 .box:hover {
