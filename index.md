@@ -4,11 +4,24 @@ layout: default
 
 
 
-## Highlted protifolio
 
-<div class="box">Box 1</div>
-<div class="box">Box 2</div>
-<div class="box">Box 3</div>
+<div class="box">
+    <i class="fa fa-home"></i> <!-- Icon -->
+    <p>Box 1</p> <!-- Text -->
+    <img src="/path/to/image1.jpg" alt="Image 1"> <!-- Image -->
+</div>
+
+<div class="box">
+    <i class="fa fa-book"></i> <!-- Icon -->
+    <p>Box 2</p> <!-- Text -->
+    <img src="/path/to/image2.jpg" alt="Image 2"> <!-- Image -->
+</div>
+
+<div class="box">
+    <i class="fa fa-cogs"></i> <!-- Icon -->
+    <p>Box 3</p> <!-- Text -->
+    <img src="/path/to/image3.jpg" alt="Image 3"> <!-- Image -->
+</div>
 
 
 
@@ -24,8 +37,8 @@ layout: default
 
 <style>
 .box {
-    width: 400px;
-    height: 300px;
+    width: 700px;
+    height: 400px;
     margin: 30px;
     background-color: #f0f0f0;
     text-align: center;
