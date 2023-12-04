@@ -4,46 +4,41 @@ layout: default
 
 
 
+<div class="container">
+    <div class="box">
+        <p>Research 1</p> <!-- Text -->
+        <img src="/assets/img/h_1.jpg" alt="Image 1"> <!-- Image -->
+    </div>
 
-<div class="box">
-    <p>Research 1</p> <!-- Text -->
-    <img src=" " alt="Image 1"> <!-- Image -->
+    <div class="box">
+        <p>Research 2</p> <!-- Text -->
+        <img src="/assets/img/h_2.jpg" alt="Image 2"> <!-- Image -->
+    </div>
+
+    <div class="box">
+        <p>Research 3</p> <!-- Text -->
+        <img src="/assets/img/h_3.jpg" alt="Image 3"> <!-- Image -->
+    </div>
 </div>
-
-
-<div class="box">
-    <p>Research 2</p> <!-- Text -->
-    <img src=" " alt="Image 2"> <!-- Image -->
-</div>
-
-
-<div class="box">
-    <p>Research 3</p> <!-- Text -->
-    <img src=" " alt="Image 3"> <!-- Image -->
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <style>
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
 .box {
-    width: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 550px;
     height: 300px;
-    margin: 30px;
+    margin: 15px;
     background-color: #f0f0f0;
     text-align: center;
     line-height: 150px;
     transition: background-color 0.5s;
-    border-radius: 10px; /* Added this line */
+    border-radius: 10px;
 }
 
 .box img {
