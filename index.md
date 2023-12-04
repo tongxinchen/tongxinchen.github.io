@@ -23,17 +23,16 @@ layout: default
 
 <style>
 .container {
-    display: flex;
-    justify-content: space-between;
+    /* Removed display: flex and justify-content: space-between */
 }
 
 .box {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 550px;
-    height: 300px;
-    margin: 15px;
+    width: 400px; /* Adjusted for 4:3 aspect ratio */
+    height: 300px; /* Adjusted for 4:3 aspect ratio */
+    margin: 15px auto; /* Added auto to center the boxes */
     background-color: #f0f0f0;
     text-align: center;
     line-height: 150px;
@@ -42,8 +41,8 @@ layout: default
 }
 
 .box img {
-    width: 60%;
-    height: 60%;
+    width: 100%;
+    height: 100%;
     object-fit: contain;
 }
 
