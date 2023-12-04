@@ -6,17 +6,17 @@ layout: default
 
 
 <div class="box">
-    <p>Box 1</p> <!-- Research 1 -->
+    <p>Research 1 1</p> <!-- Text -->
     <img src="/path/to/image1.jpg" alt="Image 1"> <!-- Image -->
 </div>
 
 <div class="box">
-    <p>Box 2</p> <!-- Research 2 -->
+    <p>Research 2 2</p> <!-- Text -->
     <img src="/path/to/image2.jpg" alt="Image 2"> <!-- Image -->
 </div>
 
 <div class="box">
-    <p>Box 3</p> <!-- Research 3 -->
+    <p>Research 3 3</p> <!-- Text -->
     <img src="/path/to/image3.jpg" alt="Image 3"> <!-- Image -->
 </div>
 
@@ -35,7 +35,7 @@ layout: default
 <style>
 .box {
     width: 650px;
-    height: 400px;
+    height: 300px;
     margin: 30px;
     background-color: #f0f0f0;
     text-align: center;
