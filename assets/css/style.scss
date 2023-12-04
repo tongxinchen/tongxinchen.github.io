@@ -37,7 +37,10 @@ header {
 
 
 
-
+.nav-menu {
+  list-style-type: none;
+  padding: 0;
+}
 
 .nav-menu a {
   display: inline-block;
