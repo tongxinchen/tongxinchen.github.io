@@ -11,6 +11,9 @@ header {
   flex-direction: column;
 }
 
+header p {
+  margin-top: 20px; // Adjust as needed
+}
 
 .circle-logo {
   border-radius: 50%; // This will make the image round
