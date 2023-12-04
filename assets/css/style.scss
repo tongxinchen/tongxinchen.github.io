@@ -2,3 +2,11 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.circle-logo {
+  border-radius: 50%; // This will make the image round
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); // This will add a shadow effect
+  width: 100px; // Adjust as needed
+  height: 100px; // Adjust as needed
+  object-fit: cover; // This will make sure the image covers the whole area of the circle
+}
