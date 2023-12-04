@@ -22,7 +22,7 @@ layout: default
 </div>
 
 <style>
-.container {
+.box {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,13 +36,13 @@ layout: default
     border-radius: 10px;
 }
 
-.container img {
-    width: 20%;
-    height: 20%;
+.box img {
+    width: 50%;
+    height: 50%;
     object-fit: contain;
 }
 
-.container:hover {
+.box:hover {
     background-color: #ddd;
 }
 </style>
