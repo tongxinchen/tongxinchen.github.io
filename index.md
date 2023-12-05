@@ -37,8 +37,8 @@ layout: default
 }
 
 .box img {
-    width: 50%;
-    height: 50%;
+    width: 80%;
+    height: 80%;
     object-fit: contain;
     align-self: flex-start; /* Align image to the top */
 }
