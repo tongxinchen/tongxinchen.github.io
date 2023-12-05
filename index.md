@@ -25,12 +25,12 @@ layout: default
 .box {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start; /* Align items to the left */
     width: 400px; /* Adjusted for 4:3 aspect ratio */
     height: 300px; /* Adjusted for 4:3 aspect ratio */
     margin: 15px auto; /* Added auto to center the boxes */
     background-color: #f0f0f0;
-    text-align: center;
+    text-align: left; /* Align text to the left */
     line-height: 150px;
     transition: background-color 0.5s;
     border-radius: 10px;
@@ -40,6 +40,7 @@ layout: default
     width: 50%;
     height: 50%;
     object-fit: contain;
+    align-self: flex-start; /* Align image to the top */
 }
 
 .box:hover {
