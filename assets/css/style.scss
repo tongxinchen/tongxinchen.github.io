@@ -78,7 +78,7 @@ header p {
 .container {
   width: 500px;
   height: 200px;
-  margin: 10px;
+  margin: 30px;
   display: block;
   transition: transform 0.3s ease;
   background-color: #f0f0f0; /* Add your preferred background color */
@@ -90,11 +90,11 @@ header p {
 
 .container:hover {
   transform: scale(1.03);
-  backgound-color: #C0C3C9;
+  //backgound-color: #C0C3C9;
 }
 
 .container img {
-  width: calc(50% - 4px);
+  width: calc(50% - 5px);
   height: auto;
 padding: 2px;
 }
