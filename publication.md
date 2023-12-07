@@ -274,7 +274,7 @@ GISRUK: Cardiff, UK, April 2021.
 <img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="95">
 </a>
 <a href="https://zenodo.org/records/4670050https://zenodo.org/records/4670050">
-<img alt="Static Badge" src="https://img.shields.io/badge/Zenodo-Conference%20Paper-%231C93E1?logo=Zenodo" width="95">
+<img alt="Static Badge" src="https://img.shields.io/badge/Zenodo-Conference%20Paper-%231C93E1?logo=Zenodo" width="105">
 </a>
 
 </p>
