@@ -239,13 +239,18 @@ Crime Science 9, no. 1 (2020): 1-13.
  
 --------------------
 
+
+
+
 <p style="text-align: justify; font-size: 10px; color:black">
 Chen, Tongxin, Tao Cheng, and Yang Zhang. 
 <strong>"Exploring the Homogeneity of Offenders in Crime Hotspots.</strong> 
-In: Geographical Information Science Research - UK (GISRUK) 2019 Proceedings. 
+In: Geographical Information Science Research -- UK (GISRUK) 2019 Proceedings. 
 GISRUK: Newcastle, UK.
-</p>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9">
+<a href="https://discovery.ucl.ac.uk/id/eprint/10085142/">Link text</a>
+ </p>
 
 
 
