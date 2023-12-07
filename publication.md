@@ -259,6 +259,10 @@ GISRUK: Cardiff, UK, 2021.
 <a href="https://www.researchgate.net/publication/351054810_The_exploration_of_human_activity_zones_using_geo-tagged_big_data_during_the_COVID-19_first_lockdown_in_London_UK">
 <img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="85">
 </a>
+<a href="https://zenodo.org/records/4670050https://zenodo.org/records/4670050">
+<img alt="Static Badge" src="https://img.shields.io/badge/Zenodo-Conference%20Paper-%231C93E1?logo=Zenodo" width="85">
+</a>
+
 </p>
 
 
