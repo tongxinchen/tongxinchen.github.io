@@ -244,7 +244,7 @@ Crime Science 9, no. 1 (2020): 1-13.
 <strong>Revealing the relationship between human mobility and urban deprivation 
 using geo-big data: a case study from London in the post-pandemic era</strong> 
 In: Geographical Information Science Research UK (GISRUK) 2023 Proceedings. 
-GISRUK: Glasgow, UK, April 2021.
+GISRUK: Glasgow, UK, April 2023.
 
 <a href="https://discovery.ucl.ac.uk/id/eprint/10168610/">
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
@@ -254,9 +254,6 @@ GISRUK: Glasgow, UK, April 2021.
 </a>
 
 </p>
-
-
-
 
 
 
