@@ -117,7 +117,8 @@ Abstract:
 Objective: Since the outbreak of COVID-19, public health and social measures to contain its transmission 
 (e.g., social distancing and lockdowns) have dramatically changed people's lives in rural and urban areas 
 globally. To facilitate future management of the pandemic, it is important to understand how different 
--demographic groups adhere to such demands. This study aims to evaluate the influences of restriction policies on human mobility variations associated with socio-demographic groups in England, UK.
+demographic groups adhere to such demands. This study aims to evaluate the influences of restriction policies 
+on human mobility variations associated with socio-demographic groups in England, UK.
 
 Methods: Using mobile phone global positioning system (GPS) trajectory data, we measured variations 
 in human mobility across socio-demographic groups during different restriction periods from Oct 14, 2020 
