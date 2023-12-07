@@ -6,10 +6,6 @@ title: Publication
 
  
 # Journal Articles
-<div id="journal-articles">
-<!-- Journal Articles content goes here -->
-</div>
-
 
 --------------------
 
@@ -50,14 +46,10 @@ variables and their varying influences in distinct situations.
 
 
 # Conference Papers
-<div id="conference-papers">
-<!-- Conference Papers content goes here -->
-</div>
+ 
 
 # Book Chapters
-<div id="book-chapters">
-<!-- Book Chapters content goes here -->
-</div>
+ 
  
 
 
