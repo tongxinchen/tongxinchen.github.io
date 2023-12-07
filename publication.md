@@ -240,7 +240,10 @@ Crime Science 9, no. 1 (2020): 1-13.
 --------------------
 
 <p style="text-align: justify; font-size: 10px; color:black">
-<strong>Exploring the homogeneity</strong> of theft offenders in spatio-temporal crime hotspots
+Chen, Tongxin, Tao Cheng, and Yang Zhang. 
+<strong>"Exploring the Homogeneity of Offenders in Crime Hotspots.</strong> 
+In: Geographical Information Science Research - UK (GISRUK) 2019 Proceedings. 
+GISRUK: Newcastle, UK.
 </p>
 
 
