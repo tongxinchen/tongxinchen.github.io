@@ -115,10 +115,11 @@ header p {
 }
 
 .container {
-  flex: 0 0 calc(50% - 20px);
-  width: calc(50% - 20px);
+  flex: 0 0;
+  width: 150px;
+  height: 250px;
   aspect-ratio: 1 / 1;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
   transition: transform 0.3s ease;
   background-color: #f0f0f0; /* Add your preferred background color */
   border: none; /* Add your preferred border color and width */
