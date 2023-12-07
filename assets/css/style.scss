@@ -3,6 +3,11 @@
 
 @import "jekyll-theme-minimal";
 
+
+h1 {
+  font-size: 20px; /* Change this to your preferred font size */
+}
+
 header {
   display: flex;
   flex-direction: column;
