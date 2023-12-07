@@ -100,12 +100,52 @@ during the COVID-19 pandemic." Plos one 18, no. 1 (2023): e0277913.
 
 --------------------
 
+<img src="assets/img/p_fig3.png" alt="Image description"
+style="transition: transform 0.3s ease;"
+onmouseover="this.style.transform='scale(1.2)';"
+onmouseout="this.style.transform='scale(1)';">
 
-
-<img src="https://img.shields.io/badge/Journal-ISPRS%20IJGI-%233A75AA" alt="Badge" width="10" height="5">
-
+<p style="text-align: justify; font-size: 15px; font-weight: bold; color:black">
+Human mobility variations in response to restriction policies during the COVID-19 pandemic: 
+An analysis from the Virus Watch community cohort in England, UK
+</p>
 
 [![Static Badge](https://img.shields.io/badge/Journal-Frontiers%20in%20Public%20Health-%23009EC6?logo=%20)](https://www.frontiersin.org/articles/10.3389/fpubh.2022.999521/full)
+
+<p style="text-align: justify; font-size: 11px"> 
+Abstract:
+Objective: Since the outbreak of COVID-19, public health and social measures to contain its transmission 
+(e.g., social distancing and lockdowns) have dramatically changed people's lives in rural and urban areas 
+globally. To facilitate future management of the pandemic, it is important to understand how different 
+-demographic groups adhere to such demands. This study aims to evaluate the influences of restriction policies on human mobility variations associated with socio-demographic groups in England, UK.
+
+Methods: Using mobile phone global positioning system (GPS) trajectory data, we measured variations 
+in human mobility across socio-demographic groups during different restriction periods from Oct 14, 2020 
+to Sep 15, 2021. The six restriction periods which varied in degree of mobility restriction policies, 
+denoted as “Three-tier Restriction,” “Second National Lockdown,” “Four-tier Restriction,” 
+“Third National Lockdown,” “Steps out of Lockdown,” and “Post-restriction,” respectively. 
+Individual human mobility was measured with respect to the time period people stayed at home, 
+visited places outside the home, and traveled long distances. 
+We compared these indicators across the six restriction periods and across socio-demographic groups.
+
+Results: All human mobility indicators significantly differed across the six restriction periods, 
+and the influences of restriction policies on individual mobility behaviors are correlated with 
+socio-demographic groups. In particular, influences relating to mobility behaviors are stronger 
+in younger and low-income groups in the second and third national lockdowns.
+
+Conclusions: This study enhances our understanding of the influences of COVID-19 pandemic restriction 
+policies on human mobility behaviors within different social groups in England. 
+The findings can be usefully extended to support policy-making by investigating human mobility and 
+differences in policy effects across not only age and income groups, but also across geographical regions.
+</p>
+
+<p style="text-align: justify; font-size: 8px">
+Cheng, Tao*, Tongxin Chen*, Yunzhe Liu, Robert W. Aldridge, 
+Vincent Nguyen, Andrew C. Hayward, and Susan Michie. 
+"Human mobility variations in response to restriction policies during the COVID-19 pandemic: 
+An analysis from the Virus Watch community cohort in England, UK." 
+Frontiers in public health 10 (2022): 999521.
+</p>
 
 
 --------------------
