@@ -239,7 +239,21 @@ Crime Science 9, no. 1 (2020): 1-13.
  
 --------------------
 
+<p style="text-align: justify; font-size: 10px; color:black">
+<strong>Chen, Tongxin*</strong>, Xiaowei Gao and Tao Cheng (2023). 
+<strong>Revealing the relationship between human mobility and urban deprivation 
+using geo-big data: a case study from London in the post-pandemic era</strong> 
+In: Geographical Information Science Research UK (GISRUK) 2023 Proceedings. 
+GISRUK: Glasgow, UK, April 2021.
 
+<a href="https://discovery.ucl.ac.uk/id/eprint/10168610/">
+<img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
+</a>
+<a href="https://www.researchgate.net/publication/370050537_Revealing_the_relationship_between_human_mobility_and_urban_deprivation_using_geo-big_data_a_case_study_from_London_in_the_post-pandemic_era">
+<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="95">
+</a>
+
+</p>
 
 
 
@@ -251,7 +265,7 @@ Crime Science 9, no. 1 (2020): 1-13.
 <strong>The exploration of human activity zones using geo-tagged big data 
 during the COVID-19 first lockdown in London, UK.</strong> 
 In: Geographical Information Science Research UK (GISRUK) 2021 Proceedings. 
-GISRUK: Cardiff, UK, 2021.
+GISRUK: Cardiff, UK, April 2021.
 
 <a href="https://discovery.ucl.ac.uk/id/eprint/10149746/">
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
@@ -270,7 +284,7 @@ GISRUK: Cardiff, UK, 2021.
 <strong>Chen, Tongxin*</strong> and Tao Cheng (2020). 
 <strong>Identifying Optimal Scales for Spatio-temporal Crime Clusters.</strong> 
 In: Geographical Information Science Research UK (GISRUK) 2020 Proceedings. 
-GISRUK: London, UK, 2020.
+GISRUK: London, UK, April 2020.
 
 <a href="https://discovery.ucl.ac.uk/id/eprint/10114785/">
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
