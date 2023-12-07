@@ -205,7 +205,7 @@ onmouseout="this.style.transform='scale(1)';">
 Exploring the homogeneity of theft offenders in spatio-temporal crime hotspots
 </p>
 
-![Static Badge](https://img.shields.io/badge/Journal-Crime%20Science-%23199DC6?logo=%20)(https://link.springer.com/article/10.1186/s40163-020-00115-8)
+[![Static Badge](https://img.shields.io/badge/Journal-Crime%20Science-%23199DC6?logo=%20)](https://link.springer.com/article/10.1186/s40163-020-00115-8)
 
 <p style="text-align: justify; font-size: 11px"> 
 Abstract: Offender homogeneity occurs when the same criminal group is composed of offenders with similar 
