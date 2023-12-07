@@ -141,7 +141,7 @@ differences in policy effects across not only age and income groups, but also ac
 </p>
 
 <p style="text-align: justify; font-size: 8px">
-Cheng, Tao*, Tongxin Chen*, Yunzhe Liu, Robert W. Aldridge, 
+Ciatation: Cheng, Tao*, Tongxin Chen*, Yunzhe Liu, Robert W. Aldridge, 
 Vincent Nguyen, Andrew C. Hayward, and Susan Michie. 
 "Human mobility variations in response to restriction policies during the COVID-19 pandemic: 
 An analysis from the Virus Watch community cohort in England, UK." 
@@ -160,11 +160,11 @@ Spatio-temporal stratified associations between urban human activities and crime
 a case study in San Francisco around the COVID-19 stay-at-home mandate
 </p>
 
-![Static Badge](https://img.shields.io/badge/Journal-Computational%20Urban%20Science-%23216851?logo=%20)(https://link.springer.com/journal/43762)
+[![Static Badge](https://img.shields.io/badge/Journal-Computational%20Urban%20Science-%23216851?logo=%20)](https://link.springer.com/journal/43762)
 [![Static Badge](https://img.shields.io/badge/GitHub-Jupyter%20Notebook-%23F37726?logo=Github)](https://github.com/tongxinchen/Crime_HAZ_SF_US)
 
 <p style="text-align: justify; font-size: 11px"> 
-Crime changes have been reported as a result of human routine activity shifting due to containment policies, 
+Abstract: Crime changes have been reported as a result of human routine activity shifting due to containment policies, 
 such as stay-at-home (SAH) mandates during the COVID-19 pandemic. However, the way in which the manifestation 
 of crime in both space and time is affected by dynamic human activities has not been explored in depth in 
 empirical studies. Here, we aim to quantitatively measure the spatio-temporal stratified associations 
@@ -185,7 +185,7 @@ to consider human activity variables.
 </p>
 
 <p style="text-align: justify; font-size: 8px">
-Chen, Tongxin, Kate Bowers, Di Zhu*, Xiaowei Gao, and Tao Cheng. 
+Citation: Chen, Tongxin, Kate Bowers, Di Zhu*, Xiaowei Gao, and Tao Cheng. 
 "Spatio-temporal stratified associations between urban human activities and crime patterns: 
 a case study in San Francisco around the COVID-19 stay-at-home mandate." 
 Computational urban science 2, no. 1 (2022): 13.Chen, Tongxin, Kate Bowers, Di Zhu, Xiaowei Gao, 
