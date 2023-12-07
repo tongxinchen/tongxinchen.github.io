@@ -16,6 +16,28 @@ header p {
   text-align: justify;
 }
 
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+@media (max-width: 600px) {
+  footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+
 .circle-logo {
   border-radius: 50%; // This will make the image round
   box-shadow: 0 0 10px rgba(0,0,0,0.5); // This will add a shadow effect
@@ -117,3 +139,5 @@ padding: 2px;
     margin: 30px;
   }
 }
+
+
