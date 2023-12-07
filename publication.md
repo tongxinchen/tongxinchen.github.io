@@ -23,7 +23,6 @@ London during the pandemic: An empirical analysis using geo-tagged big data
 [![Static Badge](https://img.shields.io/badge/GitHub-Python-%23366B98?logo=Github)](https://github.com/tongxinchen/Human_Activity_Crime_London)
 [![Static Badge](https://img.shields.io/badge/Open-Software-%2322A2EC?logo=zenodo)](https://zenodo.org/records/7839662)
 
-
 <p style="text-align: justify; font-size: 11px"> 
 Abstract: This study aimed to evaluate the relationships between different groups of 
 explanatory variables (i.e., dynamic human activity variables, static variables 
@@ -51,10 +50,29 @@ https://doi.org/10.3390/ijgi12120488
 </p>
 
 --------------------
-##
+
+<p style="text-align: justify; font-size: 15px; font-weight: bold; color:black">
+Sensing dynamic human activity zones using geo-tagged big data in Greater London, UK 
+during the COVID-19 pandemic
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 --------------------
-##
+
 
 
 # Conference Papers
