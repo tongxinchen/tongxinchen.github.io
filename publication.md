@@ -257,10 +257,10 @@ GISRUK: Cardiff, UK, 2021.
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
 </a>
 <a href="https://www.researchgate.net/publication/351054810_The_exploration_of_human_activity_zones_using_geo-tagged_big_data_during_the_COVID-19_first_lockdown_in_London_UK">
-<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="85">
+<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="95">
 </a>
 <a href="https://zenodo.org/records/4670050https://zenodo.org/records/4670050">
-<img alt="Static Badge" src="https://img.shields.io/badge/Zenodo-Conference%20Paper-%231C93E1?logo=Zenodo" width="85">
+<img alt="Static Badge" src="https://img.shields.io/badge/Zenodo-Conference%20Paper-%231C93E1?logo=Zenodo" width="95">
 </a>
 
 </p>
@@ -276,7 +276,7 @@ GISRUK: London, UK, 2020.
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
 </a>
 <a href="https://www.researchgate.net/publication/338422605_Exploring_the_Homogeneity_of_Offenders_in_Crime_Hotspots">
-<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="85">
+<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="95">
 </a>
 </p>
 
@@ -293,7 +293,7 @@ GISRUK: Newcastle, UK, April 2019.
 </a>
 
 <a href="https://www.researchgate.net/publication/338422605_Exploring_the_Homogeneity_of_Offenders_in_Crime_Hotspots">
-<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="85">
+<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="95">
 </a>
 
 </p>
