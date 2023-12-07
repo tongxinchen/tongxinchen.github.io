@@ -11,7 +11,7 @@ title: Publication
 --------------------
 
 
-<p style="text-align: justify; font-size: 18px; font-weight: bold">
+<p style="text-align: justify; font-size: 16px; font-weight: bold; color:black">
 Applying dynamic human activity to disentangle property crime patterns in 
 London during the pandemic: An empirical analysis using geo-tagged big data
 </p>
