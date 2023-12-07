@@ -205,6 +205,7 @@ onmouseout="this.style.transform='scale(1)';">
 Exploring the homogeneity of theft offenders in spatio-temporal crime hotspots
 </p>
 
+![Static Badge](https://img.shields.io/badge/Journal-Crime%20Science-%23199DC6?logo=%20)(https://link.springer.com/article/10.1186/s40163-020-00115-8)
 
 <p style="text-align: justify; font-size: 11px"> 
 Abstract: Offender homogeneity occurs when the same criminal group is composed of offenders with similar 
@@ -222,10 +223,11 @@ within these associated offenders with similar social demographics, referred to 
 groups are detectable.
 </p>
 
-
-
-
-
+<p style="text-align: justify; font-size: 8px">
+Citation: Chen, Tongxin, Kate Bowers, Tao Cheng*, Yang Zhang, and Peng Chen. 
+"Exploring the homogeneity of theft offenders in spatio-temporal crime hotspots." 
+Crime Science 9, no. 1 (2020): 1-13.
+</p>
 
 # Conference Papers
  
