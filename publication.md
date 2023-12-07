@@ -68,7 +68,7 @@ during the COVID-19 pandemic
 
 
 <p style="text-align: justify; font-size: 11px"> 
-Exploration of dynamic human activity gives significant insights into understanding the urban environment and
+Abstract: Exploration of dynamic human activity gives significant insights into understanding the urban environment and
 can help to reinforce scientific urban management strategies. 
 Lots of studies are arising regarding the significant human activity changes in global metropolises 
 and regions affected by COVID-19 containment policies. However, the variations of human activity 
@@ -98,17 +98,17 @@ Citation: Chen, Tongxin*, Di Zhu, Tao Cheng*, Xiaowei Gao, and Huanfa Chen.
 during the COVID-19 pandemic." Plos one 18, no. 1 (2023): e0277913.
 </p>
 
-
-
-
-
-
-
-
-
 --------------------
 
 
+
+<img src="https://img.shields.io/badge/Journal-ISPRS%20IJGI-%233A75AA" alt="Badge" width="10" height="5">
+
+
+[![Static Badge](https://img.shields.io/badge/Journal-Frontiers%20in%20Public%20Health-%23009EC6?logo=%20)](https://www.frontiersin.org/articles/10.3389/fpubh.2022.999521/full)
+
+
+--------------------
 
 # Conference Papers
  
