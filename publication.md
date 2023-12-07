@@ -160,7 +160,7 @@ Spatio-temporal stratified associations between urban human activities and crime
 a case study in San Francisco around the COVID-19 stay-at-home mandate
 </p>
 
-[![Static Badge](https://img.shields.io/badge/Journal-Computational%20Urban%20Science-%23216851?logo=%20)](https://link.springer.com/journal/43762)
+[![Static Badge](https://img.shields.io/badge/Journal-Computational%20Urban%20Science-%23216851?logo=%20)](https://link.springer.com/article/10.1007/s43762-022-00041-2)
 [![Static Badge](https://img.shields.io/badge/GitHub-Jupyter%20Notebook-%23F37726?logo=Github)](https://github.com/tongxinchen/Crime_HAZ_SF_US)
 
 <p style="text-align: justify; font-size: 11px"> 
