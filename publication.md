@@ -309,12 +309,22 @@ GISRUK: Newcastle, UK, April 2019.
 
 </p>
 
-
+--------------------
 # Book Chapters
 --------------------
- 
 
+<p style="text-align: justify; font-size: 10px; color:black">
+Cheng, Tao*, and <strong>Tongxin Chen</strong>. (2021).
+<strong>Urban crime and security.</strong> 
+In: Shi, W., Goodchild, M.F., Batty, M., Kwan, MP., Zhang, A. (eds) 
+<strong>Urban Informatics</strong> . The Urban Book Series. 
+Springer, Singapore. 
+https://doi.org/10.1007/978-981-15-8983-6_14
 
+<a href="https://link.springer.com/chapter/10.1007/978-981-15-8983-6_14">
+<img alt="Static Badge" src="https://img.shields.io/badge/Book-Urban%20Informatics-%23026666?logo=%20Springer" width="95">
+</a>
+</p>
 
 
 
