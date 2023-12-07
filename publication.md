@@ -239,7 +239,9 @@ Crime Science 9, no. 1 (2020): 1-13.
  
 --------------------
 
-
+<p style="text-align: justify; font-size: 10px; font-weight: bold; color:black">
+Exploring the homogeneity of theft offenders in spatio-temporal crime hotspots
+</p>
 
 
 
