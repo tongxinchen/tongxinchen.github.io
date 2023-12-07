@@ -119,6 +119,14 @@ header p {
   width: calc(50% - 20px);
   aspect-ratio: 1 / 1;
   margin-bottom: 20px;
+  display: block;
+  transition: transform 0.3s ease;
+  background-color: #f0f0f0; /* Add your preferred background color */
+  border: none; /* Add your preferred border color and width */
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15); /* Add this line */
+
 }
 
 .container:hover {
