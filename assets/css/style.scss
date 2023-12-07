@@ -117,9 +117,11 @@ header p {
 }
 
 .container:hover p {
-  opacity: 0.4; /* Show the text when the container is hovered over */
+  opacity: 1; /* Show the text when the container is hovered over */
 }
 
-
+.container:hover img {
+  opacity: 0.3;
+}
 
 
