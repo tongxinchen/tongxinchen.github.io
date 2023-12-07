@@ -110,14 +110,14 @@ header p {
   object-position: center;
 }
 .container:hover img {
-  opacity: 0.3;
+  opacity: 0.1;
 }
 
 
 .container p {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 20%;
+  left: 10%;
   opacity: 0; /* Hide the text initially */
   transition: opacity 0.3s ease; /* Transition effect for the text */
   color: #222222;
