@@ -148,8 +148,54 @@ An analysis from the Virus Watch community cohort in England, UK."
 Frontiers in public health 10 (2022): 999521.
 </p>
 
+--------------------
+
+<img src="assets/img/p_fig4.png" alt="Image description"
+style="transition: transform 0.3s ease;"
+onmouseover="this.style.transform='scale(1.2)';"
+onmouseout="this.style.transform='scale(1)';">
+
+<p style="text-align: justify; font-size: 15px; font-weight: bold; color:black">
+Spatio-temporal stratified associations between urban human activities and crime patterns: 
+a case study in San Francisco around the COVID-19 stay-at-home mandate
+</p>
+
+![Static Badge](https://img.shields.io/badge/Journal-Computational%20Urban%20Science-%23216851?logo=%20)(https://link.springer.com/journal/43762)
+[![Static Badge](https://img.shields.io/badge/GitHub-Jupyter%20Notebook-%23F37726?logo=Github)](https://github.com/tongxinchen/Crime_HAZ_SF_US)
+
+<p style="text-align: justify; font-size: 11px"> 
+Crime changes have been reported as a result of human routine activity shifting due to containment policies, 
+such as stay-at-home (SAH) mandates during the COVID-19 pandemic. However, the way in which the manifestation 
+of crime in both space and time is affected by dynamic human activities has not been explored in depth in 
+empirical studies. Here, we aim to quantitatively measure the spatio-temporal stratified associations 
+between crime patterns and human activities in the context of an unstable period of the ever-changing 
+socio-demographic backcloth. We propose an analytical framework to detect the stratified associations 
+between dynamic human activities and crimes in urban areas. In a case study of San Francisco, United States, 
+we first identify human activity zones (HAZs) based on the similarity of daily footfall signatures on 
+census block groups (CBGs). Then, we examine the spatial associations between crime spatial distributions 
+at the CBG-level and the HAZs using spatial stratified heterogeneity statistical measurements. 
+Thirdly, we use different temporal observation scales around the effective date of the SAH mandate during 
+the COVID-19 pandemic to investigate the dynamic nature of the associations. The results reveal that 
+the spatial patterns of most crime types are statistically significantly associated with that of human 
+activities zones. Property crime exhibits a higher stratified association than violent crime across all 
+temporal scales. Further, the strongest association is obtained with the eight-week time span centred 
+around the SAH order. These findings not only enhance our understanding of the relationships between urban 
+crime and human activities, but also offer insights into that tailored crime intervention strategies need 
+to consider human activity variables.
+</p>
+
+<p style="text-align: justify; font-size: 8px">
+Chen, Tongxin, Kate Bowers, Di Zhu*, Xiaowei Gao, and Tao Cheng. 
+"Spatio-temporal stratified associations between urban human activities and crime patterns: 
+a case study in San Francisco around the COVID-19 stay-at-home mandate." 
+Computational urban science 2, no. 1 (2022): 13.Chen, Tongxin, Kate Bowers, Di Zhu, Xiaowei Gao, 
+and Tao Cheng. "Spatio-temporal stratified associations between urban human activities 
+and crime patterns: a case study in San Francisco around the COVID-19 stay-at-home mandate." 
+Computational urban science 2, no. 1 (2022): 13.
+</p>
 
 --------------------
+
 
 # Conference Papers
  
