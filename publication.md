@@ -247,7 +247,7 @@ Crime Science 9, no. 1 (2020): 1-13.
 
 
 <p style="text-align: justify; font-size: 10px; color:black">
-<strong>Chen, Tongxin*</strong>, Tao Cheng and Di Zhu(2021). 
+<strong>Chen, Tongxin*</strong>, Tao Cheng and Di Zhu (2021). 
 <strong>The exploration of human activity zones using geo-tagged big data 
 during the COVID-19 first lockdown in London, UK.</strong> 
 In: Geographical Information Science Research UK (GISRUK) 2021 Proceedings. 
@@ -267,7 +267,7 @@ GISRUK: Cardiff, UK, 2021.
 
 
 <p style="text-align: justify; font-size: 10px; color:black">
-<strong>Chen, Tongxin*</strong> and Tao Cheng(2020). 
+<strong>Chen, Tongxin*</strong> and Tao Cheng (2020). 
 <strong>Identifying Optimal Scales for Spatio-temporal Crime Clusters.</strong> 
 In: Geographical Information Science Research UK (GISRUK) 2020 Proceedings. 
 GISRUK: London, UK, 2020.
