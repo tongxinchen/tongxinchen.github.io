@@ -11,12 +11,13 @@ title: Publication
 --------------------
 
 
-## Applying dynamic human activity to disentangle property crime patterns in 
-## London during the pandemic: An empirical analysis using geo-tagged big data
+<p style="text-align: justify; font-size: 18px; font-weight: bold">
+Applying dynamic human activity to disentangle property crime patterns in 
+London during the pandemic: An empirical analysis using geo-tagged big data
+</p>
 
 
-**Abstract**
-<p style="text-align: justify; font-size: 6px"> This study aimed to evaluate the relationships between different groups of 
+<p style="text-align: justify; font-size: 12px"> Abstract: This study aimed to evaluate the relationships between different groups of 
 explanatory variables (i.e., dynamic human activity variables, static variables 
 of social disorganisation and crime generators, and combinations of both sets of variables) 
 and property crime patterns across neighbourhood areas of London during the pandemic (from 2020 to 2021). 
