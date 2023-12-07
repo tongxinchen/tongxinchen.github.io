@@ -9,7 +9,7 @@ title: Publication
 
 --------------------
 
-<img src="path_to_your_image" alt="Image description" 
+<img src="assets/img/p_fig1.png" alt="Image description" 
 style="transition: transform 0.3s ease;" 
 onmouseover="this.style.transform='scale(1.2)';" 
 onmouseout="this.style.transform='scale(1)';">
