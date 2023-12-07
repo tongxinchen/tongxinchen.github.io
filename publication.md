@@ -51,17 +51,51 @@ https://doi.org/10.3390/ijgi12120488
 
 --------------------
 
+<img src="assets/img/p_fig2.png" alt="Image description"
+style="transition: transform 0.3s ease;"
+onmouseover="this.style.transform='scale(1.2)';"
+onmouseout="this.style.transform='scale(1)';">
+
 <p style="text-align: justify; font-size: 15px; font-weight: bold; color:black">
 Sensing dynamic human activity zones using geo-tagged big data in Greater London, UK 
 during the COVID-19 pandemic
 </p>
 
+[![Static Badge](https://img.shields.io/badge/Journal-PLOS%20ONE-%23CC00A6?logo=PLOS%20ONE)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277913)
 
 
 
 
+<p style="text-align: justify; font-size: 11px"> 
+Exploration of dynamic human activity gives significant insights into understanding the urban environment and
+can help to reinforce scientific urban management strategies. 
+Lots of studies are arising regarding the significant human activity changes in global metropolises 
+and regions affected by COVID-19 containment policies. However, the variations of human activity 
+dynamics amid different phases divided by the non-pharmaceutical intervention policies
+(e.g., stay-at-home, lockdown) have not been investigated across urban areas in space and time and discussed
+with the urban characteristic determinants. In this study, we aim to explore the influence of 
+different restriction phases on dynamic human activity through sensing human activity zones (HAZs) 
+and their dominated urban characteristics. Herein, we proposed an explainable analysis framework to 
+explore the HAZ variations consisting of three parts, i.e., footfall detection, HAZs delineation and 
+the identification of relationships between urban characteristics and HAZs. In our study area of Greater 
+London, United Kingdom, we first utilised the footfall detection method to extract human activity metrics 
+(footfalls) counted by visits/stays at space and time from the anonymous mobile phone GPS trajectories. 
+Then, we characterised HAZs based on the homogeneity of daily human footfalls at census output areas (OAs) 
+during the predefined restriction phases in the UK. Lastly, we examined the feature importance of 
+explanatory variables as the metric of the relationship between human activity and urban characteristics 
+using machine learning classifiers. The results show that dynamic human activity exhibits statistically 
+significant differences in terms of the HAZ distributions across restriction phases and is strongly 
+associated with urban characteristics (e.g., specific land use types) during the COVID-19 pandemic. 
+These findings can improve the understanding of the variation of human activity patterns during the 
+pandemic and offer insights into city management resource allocation in urban areas concerning dynamic 
+human activity.
+</p>
 
-
+<p style="text-align: justify; font-size: 15px; font-weight: bold; color:black">
+Chen, Tongxin*, Di Zhu, Tao Cheng*, Xiaowei Gao, and Huanfa Chen. 
+"Sensing dynamic human activity zones using geo-tagged big data in Greater London, UK 
+during the COVID-19 pandemic." Plos one 18, no. 1 (2023): e0277913.
+</p>
 
 
 
