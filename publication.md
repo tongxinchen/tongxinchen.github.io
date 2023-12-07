@@ -241,10 +241,10 @@ Crime Science 9, no. 1 (2020): 1-13.
 
 
 <p style="text-align: justify; font-size: 10px; color:black">
-<strong>Chen, Tongxin</strong> , Tao Cheng*, and Yang Zhang (2019). 
+<strong>Chen, Tongxin*</strong> and Tao Cheng(2020). 
 <strong>Identifying Optimal Scales for Spatio-temporal Crime Clusters.</strong> 
 In: Geographical Information Science Research UK (GISRUK) 2020 Proceedings. 
-GISRUK: Cardiff, UK, April 2020.
+GISRUK: Cardiff, UK, 2020.
 
 <a href="https://discovery.ucl.ac.uk/id/eprint/10114785/">
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
