@@ -19,6 +19,9 @@ Applying dynamic human activity to disentangle property crime patterns in
 London during the pandemic: An empirical analysis using geo-tagged big data
 </p>
 
+[![Static Badge](https://img.shields.io/badge/GitHub-Python-%23366B98?logo=Github)](https://github.com/tongxinchen/Human_Activity_Crime_London)
+
+
 <p style="text-align: justify; font-size: 11px"> 
 Abstract: This study aimed to evaluate the relationships between different groups of 
 explanatory variables (i.e., dynamic human activity variables, static variables 
