@@ -84,6 +84,7 @@ header p {
   background-color: #f0f0f0; /* Add your preferred background color */
   border: none; /* Add your preferred border color and width */
   border-radius: 15px;
+  overflow: hidden;
 }
 
 .container:hover {
@@ -91,7 +92,7 @@ header p {
 }
 
 .container img {
-  width: 60%;
+  width: 50%;
   height: auto;
 }
 
