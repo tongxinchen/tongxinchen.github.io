@@ -118,6 +118,8 @@ header p {
   position: absolute;
   top: 20%;
   left: 10%;
+  align-content: center;
+  justify-content: end;
   opacity: 0; /* Hide the text initially */
   transition: opacity 0.3s ease; /* Transition effect for the text */
   color: #222222;
