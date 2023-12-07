@@ -43,6 +43,13 @@ The result provides support for crime risk prediction that considers the impact 
 variables and their varying influences in distinct situations. 
 </p>
 
+<p style="text-align: justify; font-size: 8px">
+Citation: Chen, Tongxin*, Kate Bowers, and Tao Cheng. 2023.
+"Applying Dynamic Human Activity to Disentangle Property Crime Patterns in London during the Pandemic:
+An Empirical Analysis Using Geo-Tagged Big Data" ISPRS International Journal of Geo-Information 12, no.12: 488. 
+https://doi.org/10.3390/ijgi12120488
+</p>
+
 --------------------
 ##
 
