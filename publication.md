@@ -62,7 +62,8 @@ during the COVID-19 pandemic
 </p>
 
 [![Static Badge](https://img.shields.io/badge/Journal-PLOS%20ONE-%23CC00A6?logo=PLOS%20ONE)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277913)
-
+[![Static Badge](https://img.shields.io/badge/GitHub-Jupyter%20Notebook-%23F37726?logo=Github)](https://github.com/tongxinchen/HAZ_LONDON_COVID)
+[![Static Badge](https://img.shields.io/badge/Open-Software-%2322A2EC?logo=zenodo)](https://zenodo.org/records/7096811)
 
 
 
@@ -91,7 +92,7 @@ pandemic and offer insights into city management resource allocation in urban ar
 human activity.
 </p>
 
-<p style="text-align: justify; font-size: 15px; font-weight: bold; color:black">
+<p style="text-align: justify; font-size: 8px">
 Chen, Tongxin*, Di Zhu, Tao Cheng*, Xiaowei Gao, and Huanfa Chen. 
 "Sensing dynamic human activity zones using geo-tagged big data in Greater London, UK 
 during the COVID-19 pandemic." Plos one 18, no. 1 (2023): e0277913.
