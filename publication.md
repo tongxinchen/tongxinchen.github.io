@@ -93,7 +93,7 @@ human activity.
 </p>
 
 <p style="text-align: justify; font-size: 8px">
-Chen, Tongxin*, Di Zhu, Tao Cheng*, Xiaowei Gao, and Huanfa Chen. 
+Citation: Chen, Tongxin*, Di Zhu, Tao Cheng*, Xiaowei Gao, and Huanfa Chen. 
 "Sensing dynamic human activity zones using geo-tagged big data in Greater London, UK 
 during the COVID-19 pandemic." Plos one 18, no. 1 (2023): e0277913.
 </p>
