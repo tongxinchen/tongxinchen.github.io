@@ -240,11 +240,33 @@ Crime Science 9, no. 1 (2020): 1-13.
 --------------------
 
 
+
+
+
+
+
+
+<p style="text-align: justify; font-size: 10px; color:black">
+<strong>Chen, Tongxin*</strong>, Tao Cheng and Di Zhu(2021). 
+<strong>The exploration of human activity zones using geo-tagged big data 
+during the COVID-19 first lockdown in London, UK.</strong> 
+In: Geographical Information Science Research UK (GISRUK) 2021 Proceedings. 
+GISRUK: Cardiff, UK, 2021.
+
+<a href="https://discovery.ucl.ac.uk/id/eprint/10149746/">
+<img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
+</a>
+<a href="https://www.researchgate.net/publication/351054810_The_exploration_of_human_activity_zones_using_geo-tagged_big_data_during_the_COVID-19_first_lockdown_in_London_UK">
+<img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="85">
+</a>
+</p>
+
+
 <p style="text-align: justify; font-size: 10px; color:black">
 <strong>Chen, Tongxin*</strong> and Tao Cheng(2020). 
 <strong>Identifying Optimal Scales for Spatio-temporal Crime Clusters.</strong> 
 In: Geographical Information Science Research UK (GISRUK) 2020 Proceedings. 
-GISRUK: Cardiff, UK, 2020.
+GISRUK: London, UK, 2020.
 
 <a href="https://discovery.ucl.ac.uk/id/eprint/10114785/">
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
@@ -253,7 +275,6 @@ GISRUK: Cardiff, UK, 2020.
 <img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="85">
 </a>
 </p>
-
 
 
 
