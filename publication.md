@@ -196,6 +196,36 @@ Computational urban science 2, no. 1 (2022): 13.
 
 --------------------
 
+<img src="assets/img/p_fig5.png" alt="Image description"
+style="transition: transform 0.3s ease;"
+onmouseover="this.style.transform='scale(1.2)';"
+onmouseout="this.style.transform='scale(1)';">
+
+<p style="text-align: justify; font-size: 15px; font-weight: bold; color:black">
+Exploring the homogeneity of theft offenders in spatio-temporal crime hotspots
+</p>
+
+
+<p style="text-align: justify; font-size: 11px"> 
+Abstract: Offender homogeneity occurs when the same criminal group is composed of offenders with similar 
+attributes (e.g., socio-economic-demographics). Exploring the homogeneity of offenders within spatio-temporal 
+crime hotspots (STCHs) is useful for understanding not only the generational mechanisms of crime hotspots, 
+but also has crime prevention implications. However, the homogeneity of offenders within STCHs has not 
+been explored in criminological studies hitherto. Indeed, current techniques of STCH detection are limited 
+to using statistical clustering methods in existing studies that lack the ability to identify the shape of 
+STCHs or the distribution and variety of offences/offender activity with them. In this study, we utilise a 
+spatio-temporal clustering algorithm called ST-DBSCAN to determine STCHs. We then propose novel 
+entropy-based indices that measure the similarity of offenders (and offences) within STCHs. 
+The method is demonstrated using theft crime records in the central area of Beijing, China. 
+The results show that theft in the city is concentrated in a narrow space and time span (STCHs) and that 
+within these associated offenders with similar social demographics, referred to as homogeneous offender 
+groups are detectable.
+</p>
+
+
+
+
+
 
 # Conference Papers
  
