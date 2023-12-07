@@ -240,22 +240,38 @@ Crime Science 9, no. 1 (2020): 1-13.
 --------------------
 
 
+<p style="text-align: justify; font-size: 10px; color:black">
+<strong>Chen, Tongxin</strong> , Tao Cheng*, and Yang Zhang (2019). 
+<strong>Identifying Optimal Scales for Spatio-temporal Crime Clusters.</strong> 
+In: Geographical Information Science Research UK (GISRUK) 2020 Proceedings. 
+GISRUK: Cardiff, UK, April 2020.
+
+<a href="https://discovery.ucl.ac.uk/id/eprint/10114785/">
+<img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
+</a>
+<a href="https://www.researchgate.net/publication/338422605_Exploring_the_Homogeneity_of_Offenders_in_Crime_Hotspots">
+<img alt="Static Badge" src="https://www.researchgate.net/publication/344259124_Identifying_Optimal_Scales_for_Spatio-temporal_Crime_Clusters?_sg%5B0%5D=0Fk-55HBc1vVVf2i4ekrVhJ_tf7n_a8_9O_BKxJpv4uhaBQpitkdWdz-2shJI9Ouf66z6S6X96F0ZVucyCO1n0NwTfYHxBWk7sVF-ibT.ZkgwmMznC7jjZqYP-2qZl_F5zqO5IadFfIt63tb22OVIL3DEFBmi-tZjbWG7Gk_NR_EgqDzdgA769YX6e9jTPg&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0" width="65">
+</a>
+</p>
+
+
 
 
 <p style="text-align: justify; font-size: 10px; color:black">
 <strong>Chen, Tongxin</strong> , Tao Cheng*, and Yang Zhang (2019). 
-<strong>"Exploring the Homogeneity of Offenders in Crime Hotspots.</strong> 
-In: Geographical Information Science Research -- UK (GISRUK) 2019 Proceedings. 
+<strong>Exploring the Homogeneity of Offenders in Crime Hotspots.</strong> 
+In: Geographical Information Science Research UK (GISRUK) 2019 Proceedings. 
 GISRUK: Newcastle, UK, April 2019.
 
 <a href="https://discovery.ucl.ac.uk/id/eprint/10085142/">
 <img alt="Static Badge" src="https://img.shields.io/badge/UCL-Discovery-%230097A9" width="65">
 </a>
+
 <a href="https://www.researchgate.net/publication/338422605_Exploring_the_Homogeneity_of_Offenders_in_Crime_Hotspots">
 <img alt="Static Badge" src="https://img.shields.io/badge/RG-Conference%20Paper-%23D0EEED?logo=researchgate" width="65">
 </a>
-</p>
 
+</p>
 
 
 # Book Chapters
