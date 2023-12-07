@@ -109,19 +109,16 @@ header p {
   object-fit: cover;
   object-position: center;
 }
+.container:hover img {
+  opacity: 0.3;
+}
+
 
 .container p {
   text-align: center;
   opacity: 0; /* Hide the text initially */
   transition: opacity 0.3s ease; /* Transition effect for the text */
 }
-
 .container:hover p {
   opacity: 1; /* Show the text when the container is hovered over */
 }
-
-.container:hover img {
-  opacity: 0.3;
-}
-
-
