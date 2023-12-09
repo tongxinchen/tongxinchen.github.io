@@ -133,6 +133,8 @@ header p {
   font-weight: bold;
 }
 
-
+.container:hover p {
+  opacity: 1; /* Show the text on hover */
+}
 
 
