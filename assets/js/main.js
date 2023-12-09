@@ -6,3 +6,5 @@ containers[0].querySelector('p').setAttribute('href', 'https://tongxinchen.githu
 containers[1].querySelector('p').setAttribute('href', 'https://tongxinchen.github.io/publication#p_fig2');
 containers[2].querySelector('p').setAttribute('href', 'https://tongxinchen.github.io/publication#p_fig3');
 containers[3].querySelector('p').setAttribute('href', 'https://tongxinchen.github.io/publication#p_fig4');
+
+console.log("main.js has been executed");
