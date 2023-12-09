@@ -3,8 +3,9 @@ let containers = document.querySelectorAll('.container');
 
 // Loop through each container
 containers.forEach((container, index) => {
-    // Select the p element within the container
+    // Select the p element and the img element within the container
     let pElement = container.querySelector('p');
+    let imgElement = container.querySelector('img');
 
     // Create a new a element
     let aElement = document.createElement('a');
@@ -12,11 +13,15 @@ containers.forEach((container, index) => {
     // Set the href attribute of the a element to link to the corresponding position in the publication page
     aElement.setAttribute('href', `https://tongxinchen.github.io/publication#p_fig${index + 1}`);
 
-    // Set the content of the a element to be the content of the p element
-    aElement.textContent = pElement.textContent;
+    // Append the p element and the img element to the a element
+    aElement.appendChild(pElement.cloneNode(true));
+    aElement.appendChild(imgElement.cloneNode(true));
 
-    // Replace the p element with the a element in the container
-    container.replaceChild(aElement, pElement);
+    // Replace the p element and the img element with the a element in the container
+    while (container.firstChild) {
+        container.removeChild(container.firstChild);
+    }
+    container.appendChild(aElement);
 });
 
 
