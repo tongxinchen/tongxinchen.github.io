@@ -18,4 +18,6 @@ containers.forEach((container, index) => {
     // Replace the p element with the a element in the container
     container.replaceChild(aElement, pElement);
 });
+
+
 console.log("main.js has been executed");
