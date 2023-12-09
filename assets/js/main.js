@@ -13,6 +13,9 @@ containers.forEach((container, index) => {
     // Set the href attribute of the a element to link to the corresponding position in the publication page
     aElement.setAttribute('href', `https://tongxinchen.github.io/publication#p_fig${index + 1}`);
 
+    // Add the same classes as the p and img elements to the a element
+    aElement.className = pElement.className + ' ' + imgElement.className;
+
     // Append the p element and the img element to the a element
     aElement.appendChild(pElement.cloneNode(true));
     aElement.appendChild(imgElement.cloneNode(true));
