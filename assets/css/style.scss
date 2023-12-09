@@ -137,3 +137,18 @@ header p {
   opacity: 1; /* Show the text when the container is hovered over */
 }
 
+.container a {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  right: 10%;
+  align-content: center;
+  justify-content: end;
+  opacity: 0; /* Hide the text initially */
+  transition: opacity 0.3s ease; /* Transition effect for the text */
+  color: #222222;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+
+}
