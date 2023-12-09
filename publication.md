@@ -8,7 +8,7 @@ title: Publication
 # Journal Articles
 
 --------------------
-
+<span id="p_fig1"></span>
 <img src="assets/img/p_fig1.png" alt="Image description" 
 style="transition: transform 0.3s ease;" 
 onmouseover="this.style.transform='scale(1.2)';" 
@@ -51,6 +51,7 @@ https://doi.org/10.3390/ijgi12120488
 
 --------------------
 
+<span id="p_fig2"></span>
 <img src="assets/img/p_fig2.png" alt="Image description"
 style="transition: transform 0.3s ease;"
 onmouseover="this.style.transform='scale(1.2)';"
@@ -100,6 +101,7 @@ during the COVID-19 pandemic." Plos one 18, no. 1 (2023): e0277913.
 
 --------------------
 
+<span id="p_fig3"></span>
 <img src="assets/img/p_fig3.png" alt="Image description"
 style="transition: transform 0.3s ease;"
 onmouseover="this.style.transform='scale(1.2)';"
@@ -150,6 +152,7 @@ Frontiers in public health 10 (2022): 999521.
 
 --------------------
 
+<span id="p_fig4"></span>
 <img src="assets/img/p_fig4.png" alt="Image description"
 style="transition: transform 0.3s ease;"
 onmouseover="this.style.transform='scale(1.2)';"
@@ -196,6 +199,7 @@ Computational urban science 2, no. 1 (2022): 13.
 
 --------------------
 
+<span id="p_fig5"></span>
 <img src="assets/img/p_fig5.png" alt="Image description"
 style="transition: transform 0.3s ease;"
 onmouseover="this.style.transform='scale(1.2)';"
@@ -238,6 +242,7 @@ Crime Science 9, no. 1 (2020): 1-13.
 # Conference Papers
  
 --------------------
+<span id="conference"></span>
 
 <p style="text-align: justify; font-size: 10px; color:black">
 <strong>Chen, Tongxin*</strong>, Xiaowei Gao and Tao Cheng (2023). 

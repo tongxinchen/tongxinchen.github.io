@@ -1,12 +1,8 @@
 // Select all the containers
 let containers = document.querySelectorAll('.container');
 
-// Loop through each container
-containers.forEach((container, index) => {
-    // Select the p and img elements within the container
-    let pElement = container.querySelector('p');
-    let imgElement = container.querySelector('img');
-
-    // Set the href attribute of the p element to the desired link
-    pElement.setAttribute('href', `https://https://tongxinchen.github.io/publication${0 + 1}`);
-});
+// Manually set the href attribute for each container
+containers[0].querySelector('p').setAttribute('href', 'https://tongxinchen.github.io/publication#p_fig1');
+containers[1].querySelector('p').setAttribute('href', 'https://tongxinchen.github.io/publication#p_fig2');
+containers[2].querySelector('p').setAttribute('href', 'https://tongxinchen.github.io/publication#p_fig3');
+containers[3].querySelector('p').setAttribute('href', 'https://tongxinchen.github.io/publication#p_fig4');
