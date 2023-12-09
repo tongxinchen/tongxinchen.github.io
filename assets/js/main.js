@@ -17,6 +17,20 @@ containers.forEach((container, index) => {
     aElement.appendChild(pElement.cloneNode(true));
     aElement.appendChild(imgElement.cloneNode(true));
 
+    // Apply the same styles as the p and img elements
+    aElement.style.position = 'absolute';
+    aElement.style.top = '20%';
+    aElement.style.left = '10%';
+    aElement.style.right = '10%';
+    aElement.style.alignContent = 'center';
+    aElement.style.justifyContent = 'end';
+    aElement.style.opacity = '0';
+    aElement.style.transition = 'opacity 0.3s ease';
+    aElement.style.color = '#222222';
+    aElement.style.fontSize = '18px';
+    aElement.style.textAlign = 'center';
+    aElement.style.fontWeight = 'bold';
+
     // Replace the p element and the img element with the a element in the container
     while (container.firstChild) {
         container.removeChild(container.firstChild);

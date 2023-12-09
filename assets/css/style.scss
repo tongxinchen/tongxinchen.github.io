@@ -131,22 +131,8 @@ header p {
   font-size: 18px;
   text-align: center;
   font-weight: bold;
-
 }
 
-.container a {
-  color: inherit; /* Use the same color as the parent element */
-  text-decoration: none; /* Remove the underline */
-  display: block; /* Make the a element a block element */
-  position: absolute; /* Position the a element absolutely within the container */
-  top: 0; /* Align the a element to the top of the container */
-  left: 0; /* Align the a element to the left of the container */
-  width: 100%; /* Make the a element take up the full width of the container */
-  height: 100%; /* Make the a element take up the full height of the container */
-}
 
-.container a:hover {
-  text-decoration: underline; /* Add an underline when hovering over the a element */
-}
 
 
