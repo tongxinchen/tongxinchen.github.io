@@ -10,7 +10,7 @@ containers.forEach((container, index) => {
     let aElement = document.createElement('a');
 
     // Set the href attribute of the a element to link to the corresponding position in the publication page
-    aElement.setAttribute('href', `https://tongxinchen.github.io/publication#p_fig${0 + 1}`);
+    aElement.setAttribute('href', `https://tongxinchen.github.io/publication#p_fig${index + 1}`);
 
     // Set the content of the a element to be the content of the p element
     aElement.textContent = pElement.textContent;
