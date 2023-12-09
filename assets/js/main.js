@@ -11,7 +11,7 @@ containers.forEach((container, index) => {
     let aElement = document.createElement('a');
 
     // Set the href attribute of the a element to link to the corresponding position in the publication page
-    aElement.setAttribute('href', `https://tongxinchen.github.io/publication#p_fig${index + 1}`);
+    aElement.setAttribute('href', `https://tongxinchen.github.io/publication#p_${index + 1}`);
 
     // Add the same classes as the p and img elements to the a element
     aElement.className = pElement.className + ' ' + imgElement.className;
